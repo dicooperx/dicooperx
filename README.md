@@ -4,4 +4,3 @@
 - 📫 How to reach me - dicooperx@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I flunked out of college in 2019 and have since obtained my Associate's degree. I am actively working on my Bachelor's degree and plan on obtaining my Master's degree afterwards.
-- 
