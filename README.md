@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dicooperx
-- 👀 I’m interested in data analytics and leveraging data insights to solve challenges in the finance industry.
-- 🌱 I’m currently learning GitHub, NumPy, Pandas, pretty much everything important.
+- 👀 I’m interested in data analytics and game development!
+- 🌱 I’m currently learning Godot.
 - 📫 How to reach me - dicooperx@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I flunked out of college in 2019 and have since obtained my Associate's degree. I am actively working on my Bachelor's of Science degree in Finance (expected graduation early 2026), and plan on obtaining my Master's degree in Data Science afterwards.
+- ⚡ Fun fact: I flunked out of college in 2019 and have since obtained my Associate's degree. I am actively working on my Bachelor's of Science degree in Finance (expected graduation early 2026).
