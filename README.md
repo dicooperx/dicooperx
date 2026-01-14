@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Godot.
 - 📫 How to reach me - dicooperx@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I flunked out of college in 2019 and have since obtained my Associate's degree. I am actively working on my Bachelor's of Science degree in Finance (expected graduation early 2026).
+- ⚡ Fun fact: I flunked out of college in 2019 and have since obtained my Associate's and Bachelor's degree.
