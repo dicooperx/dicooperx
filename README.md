@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @dicooperx
-- 👀 I’m interested in data analytics and game development!
-- 🌱 I’m currently learning Godot.
 - 📫 How to reach me - dicooperx@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I flunked out of college in 2019 and have since obtained my Associate's and Bachelor's degree.
